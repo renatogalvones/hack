@@ -24,3 +24,9 @@ replace all content from efi folder (mounted disk) with efi content form usb efi
 load config plist from efi (mounted)
 
 README steps from download/intel_hd fix
+
+reboot
+
+boot flags on clover again
+
+boot
