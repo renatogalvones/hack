@@ -20,10 +20,19 @@ customize
 - intel hd 6xx
 - system definitions -> macbook pro -> macbook pro 11.2
 
+*** second try ***
+after multibeast
+dont reboot
+star clover configurator steps
+
+delete all options from devices Fake Ids
+configure devices and graphics
+*** end second ***
+
 reboot
 
 clover configurator
-- mount efi -> current boot disk
+- mount efi -> current boot disk (**on second try, already mounted**)
 - replace all content from efi folder (mounted disk) with efi content form usb efi_backups
 - load config plist from efi (mounted)
 
