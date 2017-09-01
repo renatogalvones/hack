@@ -5,7 +5,7 @@ boot flags
 - boot args dart=0 nv_disable=1 -v
 - pci devices -> 4 first options
 - cpu tuning -> patchAPIC
-- binaries patching -> fake cpuid 0x0605e3 -> kernel support cpu
+- binaries patching -> fake cpuid 0x0506e3 -> kernel support cpu
 
 run multibeast 9.2.0
 - options
