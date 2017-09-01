@@ -7,7 +7,7 @@ boot flags
 - cpu tuning -> patchAPIC
 - binaries patching -> fake cpuid 0x0605e3 -> kernel support cpu
 
-run multibeast 9.0.2
+run multibeast 9.2.0
 - options
 - uefi boot mode
 - bootloader clover 2.4k uefi
