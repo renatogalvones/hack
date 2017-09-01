@@ -20,14 +20,14 @@ customize
 - intel hd 6xx
 - system definitions -> macbook pro -> macbook pro 11.2
 
-*** second try ***
-after multibeast
-dont reboot
-star clover configurator steps
+**second try**
+- after multibeast
+- dont reboot
+- star clover configurator steps
 
-delete all options from devices Fake Ids
-configure devices and graphics
-*** end second ***
+- delete all options from devices Fake Ids
+- configure devices and graphics
+**end second**
 
 reboot
 
