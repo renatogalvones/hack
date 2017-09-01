@@ -17,3 +17,10 @@ customize
 - system definitions -> macbook pro -> macbook pro 11.2
 
 reboot
+
+clover configurator
+mount efi -> current boot disk
+replace all content from efi folder (mounted disk) with efi content form usb efi_backups
+load config plist from efi (mounted)
+
+README steps from download/intel_hd fix
