@@ -27,6 +27,5 @@ README steps from download/intel_hd fix
 
 reboot
 
-boot flags on clover again
-
-boot
+boot on hd
+fake cpuid flags -> kernel support cpu
