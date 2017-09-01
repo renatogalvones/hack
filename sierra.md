@@ -1,5 +1,4 @@
-# hack
-dell 3480 with sierra
+dell 3480 with sierra 10.12.6
 
 bios -> default settings
 - sata operation -> ahci
