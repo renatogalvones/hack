@@ -2,7 +2,7 @@
 dell 3480
 
 bios -> default settings
-- disable vt for direct
+- disable vt for direct (maybe not needed)
 - sata operation -> ahci
 
 boot flags
