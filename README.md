@@ -19,13 +19,13 @@ customize
 reboot
 
 clover configurator
-mount efi -> current boot disk
-replace all content from efi folder (mounted disk) with efi content form usb efi_backups
-load config plist from efi (mounted)
+- mount efi -> current boot disk
+- replace all content from efi folder (mounted disk) with efi content form usb efi_backups
+- load config plist from efi (mounted)
 
 README steps from download/intel_hd fix
 
 reboot
 
 boot on hd
-fake cpuid flags -> kernel support cpu
+- fake cpuid flags -> kernel support cpu
