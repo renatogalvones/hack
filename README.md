@@ -1,6 +1,10 @@
 # hack
 dell 3480
 
+bios -> default settings
+- disable vt for direct
+- sata operation -> ahci
+
 boot flags
 - boot args dart=0 nv_disable=1 -v
 - pci devices -> 4 first options
