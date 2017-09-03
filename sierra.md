@@ -17,3 +17,5 @@ run multibeast 9.2.0
 - intel hd 6xx
 
 install kexts to solve problems
+
+multibeat voodoo on sound
