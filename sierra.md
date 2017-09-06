@@ -1,6 +1,6 @@
 dell 3480 with sierra 10.12.6
 
-bios -> default settings
+bios -> factory settings
 - sata operation -> ahci
 
 boot flags
@@ -15,7 +15,3 @@ run multibeast 9.2.0
 - uefi boot mode
 - bootloader clover 2.4k uefi
 - intel hd 6xx
-
-install kexts to solve problems
-
-multibeat voodoo on sound
